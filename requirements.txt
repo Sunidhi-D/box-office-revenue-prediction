@@ -1,0 +1,9 @@
+Hardware:
+ • A modern computer with a multi-core processor.
+ • At least 8GB of RAM.
+ • Sufficient storage for datasets and model checkpoints (preferably SSD).
+Software:
+ • Operating System: Windows, macOS, or Linux.
+ • Programming Language: Python.
+ • Libraries: pandas, numpy, scikit-learn, tensorflow/keras (for neural networks), matplotlib, seaborn.
+ • Development Environment: Jupyter Notebook or any other IDE like PyCharm
