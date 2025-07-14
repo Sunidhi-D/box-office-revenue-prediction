@@ -1,3 +1,9 @@
+"""
+Title: Box Office Revenue Prediction
+Author: Sunidhi Divekar
+Description: Predicting movie revenue using linear regression on features like budget, ratings, etc.
+"""
+
 import pandas as pd 
 import numpy as np 
 import matplotlib.pyplot as plt 
